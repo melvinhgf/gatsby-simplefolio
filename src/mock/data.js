@@ -57,9 +57,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  cta: 'Email Me',
+  btn: 'Email Me',
+  email: 'hgf.melvin@gmail.com',
 };
 
 // FOOTER DATA
